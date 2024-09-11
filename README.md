@@ -4,7 +4,7 @@
 <h3 align="left">Sobre mim:</h3>
 
 - 👨‍💻 "O carinha do computador". **"I'm not fron here..."**
-- 🎓 "Sou estudante de Desenvolvimento de Software, entusiasta dedicado no campo da tecnologia e apaixonado pela cultura Geek. Como um profissional diligente, valorizo uma boa lógica e um código limpo. Atualmente, estou empenhado em aprofundar meus conhecimentos em programação Full Stack. Faço bom uso do meu tempo livre jogando basquete, assistindo animes, futebol, ou cozinhando."**
+- 🎓 "Sou estudante de Desenvolvimento de Software, entusiasta dedicado no campo da tecnologia e apaixonado pela cultura Geek. Como um profissional diligente, valorizo uma boa lógica e um código limpo. Atualmente, estou empenhado em aprofundar meus conhecimentos em programação Full Stack e aprender uma língua nova. Faço bom uso do meu tempo livre jogando basquete, assistindo animes, futebol, ou cozinhando."**
 - 📫 Envie uma mansagem **marivaldocjr@gmail.com**
 
 <h3 align="left">Linguagens e outras ferramentas:</h3>
@@ -20,11 +20,11 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmarivas&show_icons=true&locale=en" alt="devmarivas" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarivas&" alt="devmarivas" width="30%" height="30%" vspace="5" hspace="5" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmarivas&show_icons=true&locale=en&layout=compact" alt="devmarivas" width="30%" height="30%" vspace="5" hspace="5" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarivas&" alt="devmarivas" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmarivas&show_icons=true&locale=en&layout=compact" alt="devmarivas" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarivas&label=Profile%20views&color=0e75b6&style=flat" alt="devmarivas" /> </p>
