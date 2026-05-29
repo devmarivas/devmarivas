@@ -1,31 +1,112 @@
+<div align="center">
 
-<h3 align="center">Olá, mundo! Me chamo Marivaldo Jr. <br> 💻👽 Full stack software developer.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050510,50:0d1117,100:00bfbf&text=MARIVALDO%20JR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"/>
 
-<h3 align="left">Sobre mim:</h3>
+</div>
 
-- 👨‍💻 "O carinha do computador". **"I'm not fron here..."**
-- 🎓 "Sou estudante de Desenvolvimento de Software, entusiasta dedicado no campo da tecnologia e apaixonado pela cultura Geek. Como um profissional diligente, valorizo uma boa lógica e um código limpo. Atualmente, estou empenhado em aprofundar meus conhecimentos em programação Full Stack e aprender uma língua nova. Faço bom uso do meu tempo livre jogando basquete, assistindo animes, futebol, ou cozinhando."**
-- 📫 Envie uma mansagem **marivaldocjr@gmail.com**
+---
 
-<h3 align="left">Linguagens e outras ferramentas:</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" vspace="5" hspace="5"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" vspace="5" hspace="5"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" vspace="5" hspace="5"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" vspace="5" hspace="5"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" vspace="5" hspace="5"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" vspace="5" hspace="5"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" vspace="5" hspace="5"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> </p>
+<div align="center">
 
-<h3 align="left">Siga-me em minhas redes sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/marivaldo-júnior-developer-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/marivaldo-júnior-developer-fullstack" height="30" width="30" vspace="10" hspace="10"/></a>
-<a href="https://instagram.com/dev_marivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_marivas" height="30" width="30" vspace="10" hspace="10"/></a>
-<a href="https://twitter.com/dev_marivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_marivas" height="30" width="30" vspace="10" hspace="10"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=console.log(%22Hello+World%22);+💻;Full+Stack+Developer;JavaScript+•+Node.js+•+React;Clean+Code+•+UI+Design+•+APIs;Always+learning+new+technologies..." />
 
+</div>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarivas&" alt="devmarivas" width="30%" height="30%" vspace="5" hspace="5" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmarivas&show_icons=true&locale=en&layout=compact" alt="devmarivas" width="30%" height="30%" vspace="5" hspace="5" />
-</p>
+---
 
+# 👨‍💻 Sobre mim
 
+```javascript
+const marivaldo = {
+  role: "Full Stack Developer",
+  
+  currentlyLearning: [
+    "TypeScript",
+    "Back-end",
+    "Arquitetura de Software"
+  ],
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarivas&label=Profile%20views&color=0e75b6&style=flat" alt="devmarivas" /> </p>
+  passions: [
+    "Tecnologia",
+    "UI Design",
+    "Basquete",
+    "Animes"
+  ],
 
+  mindset: "Código limpo + evolução constante"
+}
+```
+
+---
+
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf"/>
+</a>
+
+<a href="https://instagram.com/dev_marivas">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00bfbf"/>
+</a>
+
+<a href="https://twitter.com/dev_marivas">
+  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00bfbf"/>
+</a>
+
+<a href="mailto:marivaldocjr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfbf"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,git,github,figma,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmarivas&show_icons=true&theme=transparent&hide_border=true&title_color=00bfbf&text_color=c9d1d9&icon_color=00bfbf"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarivas&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmarivas&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Commit Snake
+
+<div align="center">
+
+![snake gif](https://github.com/devmarivas/devmarivas/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:050510&height=120&section=footer"/>
+
+</div>
