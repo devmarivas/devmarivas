@@ -20,12 +20,12 @@ $ cat /dev/marivaldo
 
 ```yaml
 name: Marivaldo Júnior
-alias: devmarivas
+alias: Marivas
 role: Full Stack Software Developer
 location: Brazil 🇧🇷
 status: Leveling up every day
-education: Software Development Student @ Cubos Academy
-languages: [Portuguese, Learning English, Learning Japanese]
+education: Software Development Student @Cubos Academy
+languages: [Portuguese, Learning English]
 hobbies: [Anime, Basketball, Football, Cooking, Coding]
 contact: marivaldocjr@gmail.com
 ```
